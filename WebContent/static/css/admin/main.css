@@ -1,0 +1,82 @@
+@CHARSET "UTF-8";
+
+html{
+	
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	
+	background-color: eeeeee;
+}
+
+.PersonInfo{
+	
+	margin-right: 120px;
+}
+
+.Main_content{
+	margin-top:50px;
+	
+}
+
+.ButtonForNAV{
+	margin-top: 18px;
+	margin-left: 12%;
+}
+
+#content{
+	
+	margin-left:0px;
+	padding-left:0px;
+	
+}
+
+#left_menu{
+	text-align: center;
+    padding-right: 0px;
+    padding-left: 0px;
+	background-color: black;
+	height: 100%;
+	/* width: 250px; */
+ 	
+}
+
+i{
+	
+	margin-right: 5px;
+}
+
+#list_style{
+	border-radius: 0px;
+}
+
+#right_Content{
+	
+	
+	/* margin-left:9%; */
+	margin-top:20px; 
+	padding:15 15 15 15;
+	height: 100%;
+	
+}
+
+#list_Content{
+	width:100%
+}
+
+.collapse{
+	background-color: #131313 !important;
+}
+
+.collapse li a{
+	padding-left:50px !important;
+}
+
+.pagination{
+	display:none !important;
+	text-align: center;
+}
+
+

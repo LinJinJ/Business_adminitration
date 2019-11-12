@@ -1,0 +1,233 @@
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	
+}
+
+.headder{
+	
+		
+}
+
+/* .row [class*="col-"]{
+
+margin-bottom: -99999px;
+
+padding-bottom: 99999px;
+
+} */
+
+.row{
+	overflow: hidden;
+}
+
+/* .headder a{
+	color: #FFFFFF;
+}
+
+.header-topNav{
+	
+	color: #FFFFFF;
+	width: 100%;
+	
+	background-color: #000000;
+	
+	position: relative;
+	z-index: 1001;
+	height: 35px;
+	line-height: 25px;
+	background: #111;
+	color: #ccc;
+	font-family: "微软雅黑";
+	font-size: 13px;
+}
+
+.heder-topNav-list li{
+	list-style-type: none;
+	padding-left: 16px;
+	padding-right: 8px;
+	margin: 5px 0 0 0;
+	position: relative;
+	float: left;
+	text-align: center;
+}
+
+.login-info li{
+	list-style-type: none;
+	padding-left: 16px;
+	padding-right: 8px;
+	margin: 5px 0 0 0;
+	position: relative;
+	float: right;
+	text-align: center;
+} */
+
+
+.company-profile{
+	margin-top: 20px;
+	padding-top: 30px;
+}
+
+
+.person_huawei img{
+	margin-top: 10px;
+}
+
+.huawei_text{
+	padding-top: 40px;
+}
+
+.huawei_text p{
+	margin: 50px;
+	line-height: 30px;
+	font-size: 23px;
+}
+
+.product-information{
+	padding-top: 45px;
+}
+
+
+.listshowproduct{
+	padding-top: 23px;
+	margin-top: 15px;
+}
+
+.product-img{
+	/* padding-top: 25px; */
+	/* padding-bottom: 40px; */
+}
+
+.product-more-information{
+	font-size: 15px;
+	padding-bottom: 15px;
+	margin-top: 38px;
+}
+
+#hot-product{
+	background-color: #31B0D5;
+	
+}
+
+.list-product-title{
+	text-align: center;
+}
+
+.news-notice-active{
+	margin-top: 45px;
+}
+
+
+
+.panel-heading{
+	background-color: rgba(248,248,255,0.6);
+} 
+
+.switch{
+	margin-top: 25px;
+}
+
+
+#hot-news{
+	padding-left: 0px !important;
+	
+}
+
+.card-content{
+		color: #000000;
+	    padding: 30px 40px;
+		background: #dde6ed;
+		height: 175px;
+		
+}
+
+#otherNews{
+	padding-right: 50px;
+}
+
+#otherNews ul li{
+	list-style-type: none;
+	padding-top:40px ;
+}
+
+.other-content{
+	top: 10px;
+	color: #000000;
+	font-size: 20px;
+	
+}
+
+/* #about-huawei{
+	background: #f0f0f0;
+	margin-top: 50px;
+	padding-bottom: 45px;
+}
+
+#about-huawei a{
+	color: #000000;
+}
+
+.about-information{
+	padding-top: 45px;
+	font-size: 20px;
+	
+}
+
+
+.huawei-information ul li{
+	list-style-type: none;
+	text-align: center;
+	float: left;
+	padding-left: 100px;
+	padding-right: 50px;
+	
+}
+
+.blogroll{
+	font-size: 23px;
+	margin-top:23px ;
+	margin-left:15px ;
+	
+}
+
+.blogroll ul li{
+	list-style-type: none;
+	text-align: center;
+	padding-left: 60px;
+	margin-left: 60px;
+	float: left;
+}
+
+.footer{
+	background: #000000;
+	height: 38px;
+}
+
+.footer  a{
+	color: #ffffff;
+}
+
+.our-information{
+	color: #FFFFFF;
+	font-size: 14px;
+	
+}
+
+
+.our-information ul li{
+	list-style-type: none;
+	float: left;
+	line-height: 38px;
+	overflow: hidden;
+	
+}
+
+
+
+#footer-CopyRight {
+	line-height: 38px;
+} */
+
